@@ -1,0 +1,34 @@
+{
+ "train": {
+  "tiles": 3500,
+  "empty": 202,
+  "bld_px": 592351472,
+  "px": 3670016000,
+  "empty_frac": 0.05771428571428571,
+  "building_px_frac": 0.16140296718052455
+ },
+ "val": {
+  "tiles": 375,
+  "empty": 36,
+  "bld_px": 61250918,
+  "px": 393216000,
+  "empty_frac": 0.096,
+  "building_px_frac": 0.1557691396077474
+ },
+ "test": {
+  "tiles": 625,
+  "empty": 74,
+  "bld_px": 90235139,
+  "px": 655360000,
+  "empty_frac": 0.1184,
+  "building_px_frac": 0.13768789520263672
+ },
+ "test_nooverlap": {
+  "tiles": 400,
+  "empty": 48,
+  "bld_px": 57289298,
+  "px": 419430400,
+  "empty_frac": 0.12,
+  "building_px_frac": 0.13658833026885986
+ }
+}

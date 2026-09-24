@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# training output and data are not tracked
+runs/
+data/
+tables/
+*.pt
+*.pth
+*.npz
+
+.DS_Store
+.idea/
+.vscode/

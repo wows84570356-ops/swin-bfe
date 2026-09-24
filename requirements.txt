@@ -1,0 +1,9 @@
+# Pinned to what produced the results in the paper.
+torch==2.11.0
+timm==1.0.28
+numpy
+opencv-python
+scipy
+matplotlib
+# Only needed for --context v2 and --context vanilla; CUDA-only kernel.
+# mamba-ssm

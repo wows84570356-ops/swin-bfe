@@ -1,0 +1,15 @@
+{
+ "merge_floor": 0.0,
+ "split_floor": 0.0,
+ "count_bias_floor": 0.0,
+ "instance_recall_floor": 1.0,
+ "per_city": {
+  "austin": 0.0,
+  "chicago": 0.0,
+  "kitsap": 0.0,
+  "tyrol-w": 0.0,
+  "vienna": 0.0
+ },
+ "n_tiles": 625,
+ "n_gt_instances": 36482
+}
